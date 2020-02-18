@@ -2,5 +2,9 @@ file1 is created
 
 <HTML>
 <HEAD>Welcome </HEAD>
-<BODY> understanding git </BODY>
+<BODY> understanding git 
+<p>adding stuff for branch checkout and merge</p>
+
+
+</BODY>
 </HTML>
