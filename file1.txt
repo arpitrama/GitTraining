@@ -1,0 +1,6 @@
+file1 is created
+
+<HTML>
+<HEAD>Welcome </HEAD>
+<BODY> understanding git </BODY>
+</HTML>
