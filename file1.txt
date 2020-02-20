@@ -4,7 +4,10 @@ file1 is created
 <HEAD>Welcome </HEAD>
 <BODY> understanding git 
 <p>adding stuff for branch checkout and merge</p>
+
 changes made from local
+editing file on remote directly
+
 
 </BODY>
 </HTML>
