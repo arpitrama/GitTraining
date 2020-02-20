@@ -8,6 +8,6 @@ file1 is created
 changes made from local
 editing file on remote directly
 
-
+<p>again editing from remote</p>
 </BODY>
 </HTML>
